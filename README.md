@@ -14,5 +14,5 @@ oldpeakST: depression induced by exercise relative to rest<br>
 slopethe: slope of the peak exercise ST segment<br>
 canumber: of major vessels (0-3) colored by flourosopy<br>
 thal3 : normal; 6 = fixed defect; 7 = reversable defect<br>
-target: 1 or</p>
+target: 1 or 0</p>
 <p>İlgili veriseti üzerinde, Support Vector Machine (SVM) makine öğrenmesi algoritması ile sınıflandırma çalışması yapılmıştır.</p>
