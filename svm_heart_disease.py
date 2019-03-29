@@ -15,7 +15,6 @@ import matplotlib.mlab as mlab
 
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import confusion_matrix
-from sklearn.metrics import roc_curve
 from sklearn.svm import SVC
 import itertools
 import seaborn
