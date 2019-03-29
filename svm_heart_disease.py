@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 28 13:56:35 2019
-
-@author: yasem
-"""
-
 """
  HEART DISEASE - SVM
  
